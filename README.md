@@ -1,5 +1,5 @@
 # Pothole-Detection-Using-YOLOv8
-Requirements and Installations
+Requirements and Installations:
   pip install -r requirements.txt
 Training of YOLO Model on Custom Dataset
 Download the pothole detection dataset from roboflow.com.
